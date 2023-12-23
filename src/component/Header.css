@@ -1,0 +1,17 @@
+.tinder-header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tinder-header img{
+    height: 80px;
+    object-fit: container;
+}
+
+.header-icons{
+    padding: 3v !important;
+    background-color: whitesmoke;
+}
+

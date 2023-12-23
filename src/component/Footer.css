@@ -1,0 +1,25 @@
+.bottomButton{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    bottom: 40px;
+}
+
+.bottomButton .close{
+    padding: 3v !important;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+    color: red;
+    background-color: whitesmoke;
+}
+
+.bottomButton .favorite{
+    padding: 3v !important;
+    box-shadow: 0px 10px 40px 0px rgba(0,0,0,0.3);
+    color: green;
+    background-color: whitesmoke;
+}
+
+
+
